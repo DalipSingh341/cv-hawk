@@ -1,6 +1,6 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
-import help1 from "../assets/images/png/help1.png"
+import help1 from "../assets/images/webp/help1.webp"
 import { Link } from 'react-router-dom';
 const Help4 = () => {
   return (

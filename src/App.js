@@ -20,7 +20,7 @@ import MyPreloader from "./components/MyPreloader"
 function App() {
   return (
     <>
-      <div className="">
+      <div className="overflow-hidden">
         <BackToTop />
         <MyPreloader/>
         <HawkNav />

@@ -1,12 +1,12 @@
 import React from 'react'
 import $ from "jquery"
-import  client1 from "../assets/images/svg/client1.svg"
-import  client2 from "../assets/images/svg/client2.svg"
-import  client3 from "../assets/images/svg/client3.svg"
-import client4 from "../assets/images/svg/client4.svg"
-import client5 from "../assets/images/svg/client5.svg"
-import five_star from "../assets/images/svg/five_start.svg"
-import triangle from "../assets/images/svg/text_triangle.svg"
+import  client1 from "../assets/images/webp/client1.webp"
+import  client2 from "../assets/images/webp/client2.webp"
+import  client3 from "../assets/images/webp/client3.webp"
+import client4 from "../assets/images/webp/client4.webp"
+import client5 from "../assets/images/webp/client5.webp"
+import five_star from "../assets/images/webp/five_start.webp"
+import triangle from "../assets/images/webp/text_triangle.webp"
 import { Container } from 'react-bootstrap'
 import Slider from "react-slick";
 import { Link } from 'react-router-dom'

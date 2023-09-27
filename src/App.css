@@ -13,6 +13,9 @@
   margin-right: auto;
   margin-left: auto;
 }
+body{
+  overflow: hidden;
+}
 /* backtotop */
 .scrollTop {
   position: fixed;
@@ -359,11 +362,11 @@ transform: rotate(-19deg); */
 @media (max-width: 1200px) {
   .unlock_1{
     left: 0%;
-    top: -18%;
+    top: -10%;
   }
   .unlock_2{
     right: 0%;
-    top: -16%;
+    top: -10%;
   }
   .unlock_3{
     left: 0%;

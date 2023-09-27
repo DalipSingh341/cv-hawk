@@ -2,9 +2,9 @@ import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import themesbig from "../assets/images/svg/Themes_big1.svg";
 import Slider from "react-slick";
-import themes_image1 from "../assets/images/svg/themes_card1.svg";
-import themes_image2 from "../assets/images/svg/themes_card2.svg";
-import themes_image3 from "../assets/images/svg/themes_card3.svg";
+import themes_image1 from "../assets/images/webp/themes_card1.webp";
+import themes_image2 from "../assets/images/webp/themes_card2.webp";
+import themes_image3 from "../assets/images/webp/themes_card3.webp";
 
 const Themes2 = () => {
   var settings = {

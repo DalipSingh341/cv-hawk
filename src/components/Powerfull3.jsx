@@ -1,7 +1,7 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
-import powerfull1 from "../assets/images/png/Powerfull1.png"
-import powerfull_after from "../assets/images/svg/powerfull_after.svg"
+import powerfull1 from "../assets/images/webp/Powerfull1.webp"
+import powerfull_after from "../assets/images/webp/powerfull_after.webp"
 const Powerfull3 = () => {
   return (
     <div className="bg_gray">

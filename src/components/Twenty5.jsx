@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import twenty1 from "../assets/images/svg/twenty1.png";
+import twenty1 from "../assets/images/webp/twenty1.webp";
 import { Orange_Tick } from "./Icons";
 import { Link } from "react-router-dom";
 const Twenty5 = () => {

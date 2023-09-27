@@ -1,7 +1,7 @@
 import React from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
-import resume1 from "../assets/images/png/resume1.png"
-import job_after from "../assets/images/svg/job_after_line.svg";
+import resume1 from "../assets/images/webp/resume1.webp"
+import job_after from "../assets/images/webp/job_after_line.webp";
 import { Orange_Tick } from './Icons';
 const Resume6 = () => {
   return (

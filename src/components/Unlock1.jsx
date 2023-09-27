@@ -4,11 +4,11 @@ import unlock1 from "../assets/images/svg/unlock1.svg";
 import unlock2 from "../assets/images/svg/unlock2.svg";
 import unlock3 from "../assets/images/svg/unlock3.svg";
 import unlock4 from "../assets/images/svg/unlock4.svg";
-import unlock_circle from "../assets/images/svg/unlock_circle.svg";
-import unlock_magnet from "../assets/images/svg/unlock_magnet1.svg";
-import unlock_medicine from "../assets/images/svg/unclock_medicine.svg";
-import unlock_box from "../assets/images/svg/unlock_box.svg";
-import unlock_blur1 from "../assets/images/svg/unlock_blur1.svg";
+import unlock_circle from "../assets/images/webp/unlock_circle.webp";
+import unlock_magnet from "../assets/images/webp/unlock_magnet1.webp";
+import unlock_medicine from "../assets/images/webp/unclock_medicine.webp";
+import unlock_box from "../assets/images/webp/unlock_box.webp";
+import unlock_blur1 from "../assets/images/webp/unlock_blur1.webp";
 import { Container } from "react-bootstrap";
 
 const Unlock1 = () => {
